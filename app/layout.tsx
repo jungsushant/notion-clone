@@ -16,9 +16,9 @@ export const metadata: Metadata = {
         href: "/logo.svg",
       },
       {
-        media: "(prefers-color-scheme:dard)",
-        url: "/logo-dard.svg",
-        href: "/logo-dard.svg",
+        media: "(prefers-color-scheme:dark)",
+        url: "/logo-dark.svg",
+        href: "/logo-dark.svg",
       },
     ],
   },
